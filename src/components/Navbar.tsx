@@ -15,21 +15,21 @@ const navbarLinks = [
     href: "/",
     target: "_self",
   },
-  {
-    name: "Creator",
-    href: "https://github.com/riad-azz",
-    target: "_blank",
-  },
-  {
-    name: "Github",
-    href: "https://github.com/riad-azz/instagram-video-downloader",
-    target: "_blank",
-  },
-  {
-    name: "Contact",
-    href: "https://twitter.com/riadazz",
-    target: "_blank",
-  },
+  // {
+  //   name: "Creator",
+  //   href: "",
+  //   target: "_blank",
+  // },
+  // {
+  //   name: "Github",
+  //   href: "",
+  //   target: "_blank",
+  // },
+  // {
+  //   name: "Contact",
+  //   href: "",
+  //   target: "_blank",
+  // },
 ];
 
 const Navbar = () => {

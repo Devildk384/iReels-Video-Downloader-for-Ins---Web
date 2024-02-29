@@ -15,11 +15,11 @@ export const mainMetadata: Metadata = {
   ],
   authors: [
     {
-      name: "riad-azz",
-      url: "https://github.com/riad-azz",
+      name: "Durgesh Kumar",
+      
     },
   ],
-  creator: "riad-azz",
+  creator: "Durgesh Kumar",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -35,13 +35,6 @@ export const mainMetadata: Metadata = {
         alt: siteConfig.name,
       },
     ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: siteConfig.name,
-    description: siteConfig.description,
-    images: [siteConfig.ogImageUrl],
-    creator: "@riadazz",
   },
   robots: {
     index: false,
