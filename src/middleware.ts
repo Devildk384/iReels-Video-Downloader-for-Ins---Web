@@ -49,7 +49,7 @@ export async function middleware(request: NextRequest) {
   console.log(`${request.method} ${clientIp} (${country}) -> ${requestPath}`);
 }
 
-// See "Matching Paths" below to learn more
+// See "Matching Paths" below to learn more ..
 export const config = {
   matcher: ["/:path*"],
 };
